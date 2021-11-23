@@ -1,0 +1,1 @@
+SELECT sys_context('USERENV', 'DB_NAME') FROM DUAL

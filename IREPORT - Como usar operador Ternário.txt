@@ -1,0 +1,3 @@
+($F{ISSRETIDO}.equals("S")) ? ($F{VLRNOTA}.subtract(($F{VLRPIS}).add($F{VLRCOFINS}).add($F{VLRCSLL}).add($F{VLRISS}).add($F{VLRIR}))):$F{VLRTOT};
+
+($F{OBSERVACAO_CAB}.equals(NULL))?$F{OBSERVACAO_CAB}: ' '

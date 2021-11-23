@@ -1,0 +1,1 @@
+PRAGMA autonomous_transaction;
